@@ -1,6 +1,6 @@
 # ARTsy
 
-simple project e-commerce like using bootstrap, php and MYSQL
+simple project e-commerce like using Bootstrap, PHP and MySQL
 
 ## status
 
