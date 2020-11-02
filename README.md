@@ -9,7 +9,6 @@ It's just a project to apply a few knowledges of Bootstrap, PHP and MySQL. I int
 
 
 ## to-do
-☐ Filter categories
 ☐ Sanitize database  
 ☐ Individual pages for items  
 ☐ Cart  
@@ -18,6 +17,7 @@ It's just a project to apply a few knowledges of Bootstrap, PHP and MySQL. I int
 
 
 ## done
+☒ Filter categories    
 ☒ Main Page  
 ☒ Dynamic products page  
 ☒ Customer service form linked to database  
