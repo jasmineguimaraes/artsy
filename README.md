@@ -1,6 +1,6 @@
 # ARTsy
 
-simple project e-commerce like using Bootstrap, PHP and MySQL
+simple project e-commerce like using bootstrap, php and MYSQL
 
 ## status
 
@@ -9,7 +9,7 @@ It's just a project to apply a few knowledges of Bootstrap, PHP and MySQL. I int
 
 
 ## to-do
-☐ Filter categories  
+☐ Filter categories
 ☐ Sanitize database  
 ☐ Individual pages for items  
 ☐ Cart  

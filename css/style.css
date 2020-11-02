@@ -159,6 +159,22 @@ img.picture-tag {
     margin-bottom: 2rem;
 }
 
+.nossas-lojas {
+    list-style  : none;
+    display: flex;
+     flex-direction: row !important; 
+     justify-content: center;
+     align-items: flex-start;
+    padding: 0.5rem;
+     margin-top: 0.5rem;
+      min-height: 60vh;
+    margin-bottom: 2rem;
+}
+
+.nossas-lojas ul{
+    margin: 1rem;
+}
+
 form {
 color: black;
 
